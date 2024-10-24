@@ -32,10 +32,10 @@ const professionals = [
 
     stats: [
 
-      {num:2, text:"Anos de experiencia"},
-      {num:4, text:"Projetos concluídos"},
+      {num:20, text:"Anos de experiencia"},
+      {num:50, text:"Projetos concluídos"},
       {num:15, text:"tecnologias geridas"},
-      {num:1, text:"Code Commits"}
+      {num:100, text:"Code Commits"}
       
     ]
   },
@@ -58,10 +58,10 @@ const professionals = [
 
     stats: [
 
-      {num:1, text:"Anos de experiencia"},
-      {num:3, text:"Projetos concluídos"},
-      {num:1, text:"tecnologias geridas"},
-      {num:5, text:"Code Commits"}
+      {num:10, text:"Anos de experiencia"},
+      {num:30, text:"Projetos concluídos"},
+      {num:10, text:"tecnologias geridas"},
+      {num:60, text:"Code Commits"}
       
     ]
   },
@@ -177,23 +177,21 @@ const Home = () => {
 
         
 
-        <div className="">
+        <div>
 
           <FloatingWhatsApp 
-          
-          
+        
+
             phoneNumber="+5521965408033"
             accountName="HouseOfCode"
             chatMessage="Oi, tudo bem? Como posso te ajudar?"
             statusMessage="Online agora"
+            notificationDelay={30}
             avatar="/assets/Whatsappavatar-01.jpeg"
             notification={true}
-            notificationDelay={30}
-            allowClickAway={true}
-            allowEsc={true}
-            darkMode={false}
+            darkMode={true}
             style={{ bottom: '20px', right: '20px' }}
-            className="custom-whatsapp"
+            
     
           />
           
