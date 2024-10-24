@@ -950,9 +950,9 @@ const Resume = ()=>{
             <div className="container mx-auto">
 
                 <div className="flex gap-2 justify-left items-center mb-8">
-                    <Button onClick={() => changeProfessional('Gleison')} variant="outline" size="lg" className="uppercase">Gleison</Button>
-                    <Button onClick={() => changeProfessional('Reynaldo')} variant="outline" size="lg" className="uppercase">Reynaldo</Button>
-                    <Button onClick={() => changeProfessional('Matheus')} variant="outline" size="lg" className="uppercase">Matheus</Button>
+                    <Button onClick={() => changeProfessional('Gleison')} variant="outline" size="md" className="uppercase">Gleison</Button>
+                    <Button onClick={() => changeProfessional('Reynaldo')} variant="outline" size="md" className="uppercase">Reynaldo</Button>
+                    <Button onClick={() => changeProfessional('Matheus')} variant="outline" size="md" className="uppercase">Matheus</Button>
                 </div>
                 <Tabs
                     defaultValue="experience"

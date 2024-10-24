@@ -54,7 +54,7 @@ const MobileNav = () => {
 
                     <Link href="/">
                         <h1 className="text-4xl font-semibold">
-                            Gleison<span className="text-accent">.</span>
+                            HouseofCode<span className="text-accent">.</span>
                         </h1>
                     </Link>
                 </div>
