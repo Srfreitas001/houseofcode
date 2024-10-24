@@ -32,10 +32,10 @@ const professionals = [
 
     stats: [
 
-      {num:20, text:"Anos de experiencia"},
-      {num:40, text:"Projec concluídos"},
-      {num:15, text:"tech geridas"},
-      {num:100, text:"Code Commits"}
+      {num:2, text:"Anos de experiencia"},
+      {num:4, text:"Projetos concluídos"},
+      {num:15, text:"tecnologias geridas"},
+      {num:1, text:"Code Commits"}
       
     ]
   },
@@ -58,10 +58,10 @@ const professionals = [
 
     stats: [
 
-      {num:10, text:"Anos de experiencia"},
-      {num:30, text:"Projec concluídos"},
-      {num:10, text:"tech geridas"},
-      {num:50, text:"Code Commits"}
+      {num:1, text:"Anos de experiencia"},
+      {num:3, text:"Projetos concluídos"},
+      {num:1, text:"tecnologias geridas"},
+      {num:5, text:"Code Commits"}
       
     ]
   },
@@ -85,8 +85,8 @@ const professionals = [
     stats: [
 
       {num:1, text:"Anos de experiencia"},
-      {num:6, text:"Projec concluídos"},
-      {num:5, text:"tech geridas"},
+      {num:6, text:"Projetos concluídos"},
+      {num:5, text:"tecnologias geridas"},
       {num:4, text:"Code Commits"}
 
     ]
