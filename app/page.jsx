@@ -16,8 +16,8 @@ const professionals = [
   {
     name: "CEO Fullstack Developer",
     title: "Gleison",
-    description: `Sou Gleison Freitas, CEO e desenvolvedor Full Stack da HouseOfCode. Com expertise em front-end e back-end, lidero projetos com inovação e eficiência. Combino habilidades técnicas
-     e visão estratégica para entregar soluções de alta qualidade. kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkllllllllllllllll`,
+    description: `Sou Matheus Freitas, desenvolvedor júnior da HouseOfCode, com um forte comprometimento em me aperfeiçoar tecnicamente e contribuir para o crescimento dos projetos. 
+    Com foco em desenvolvimento front-end, aplico as melhores práticas e agrego valor à equipe com eficiencia e visão inovadora.`,
     photo: "/assets/GleisonCEO-01.png",  //{/*picture url*/}
     cv: "/assets/Gleisonfreitas-curriculo.png",
     dwnl:"Gleison Freitas - CEO Fullstack Developer",
@@ -42,8 +42,8 @@ const professionals = [
   {
     name: "Fullstack Developer",
     title: "Reynaldo",
-    description: `Sou Reynaldo de Souza, desenvolvedor Full Stack da HouseOfCode, com foco em criar soluções eficientes e escaláveis em front-end e back-end. Minhas habilidades técnicas
-     são voltadas a resultados de qualidade e inovação para o sucesso dos projetos. kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk`,
+    description: `Sou Matheus Freitas, desenvolvedor júnior da HouseOfCode, com um forte comprometimento em me aperfeiçoar tecnicamente e contribuir para o crescimento dos projetos. 
+    Com foco em desenvolvimento front-end, aplico as melhores práticas e agrego valor à equipe com eficiencia e visão inovadora.`,
     photo: "/assets/ReynaldoDevfullstack-01.png", // {/*picture url*/}
     cv: "/assets/Reynaldodesouza-curriculo.png",
     dwnl: "Reynaldo de Souza - Fullstack Developer",
