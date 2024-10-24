@@ -18,7 +18,7 @@ const professionals = [
     title: "Gleison",
     description: `Sou Gleison Freitas, CEO e desenvolvedor Full Stack da HouseOfCode. Com expertise em diversas tecnologias de front-end e back-end, lidero projetos que buscam inovação e eficiência. Acredito na criação de experiências únicas e otimizadas,
      combinando habilidades técnicas e visão estratégica para entregar produtos de alta qualidade.`,
-    photo: "/assets/GleisonCEOfullstack-01.png",  //{/*picture url*/}
+    photo: "/assets/GleisonCEO-01.png",  //{/*picture url*/}
     cv: "/assets/Gleisonfreitas-curriculo.png",
     dwnl:"Gleison Freitas - CEO Fullstack Developer",
     socials: {
