@@ -32,10 +32,10 @@ const professionals = [
 
     stats: [
 
-      {num:20, text:"Anos exper."},
+      {num:20, text:"Anos de experiencia."},
       {num:50, text:"Projetos"},
       {num:15, text:"tecnologias"},
-      {num:100, text:"Commits"}
+      {num:95, text:"Commits"}
       
     ]
   },
