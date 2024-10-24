@@ -121,7 +121,7 @@ const Contact = ()=>{
                             {/*btn*/}
 
                             <Button size="md" className="max-w-40">
-                                Enviar 🢅
+                                Enviar
                             </Button>
                         </form>
                         
