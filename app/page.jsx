@@ -35,7 +35,7 @@ const professionals = [
       {num:20, text:"Anos Carreira"},
       {num:50, text:"Projetos"},
       {num:15, text:"Tech Geridas"},
-      {num:95, text:"Commits"}
+      {num:95, text:"Code Commits"}
       
     ]
   },
@@ -59,9 +59,9 @@ const professionals = [
     stats: [
 
       {num:10, text:"Anos Carreira"},
-      {num:30, text:"Projetos concluídos"},
+      {num:30, text:"Projetos"},
       {num:10, text:"Tech Geridas"},
-      {num:60, text:"Commits"}
+      {num:60, text:"Code Commits"}
       
     ]
   },
