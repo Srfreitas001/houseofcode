@@ -84,7 +84,7 @@ const professionals = [
 
     stats: [
 
-      {num:1, text:"Anos Carreira"},
+      {num:1, text:"Ano Carreira"},
       {num:6, text:"Projetos"},
       {num:5, text:"Tech Geridas"},
       {num:4, text:"Code Commits"}
