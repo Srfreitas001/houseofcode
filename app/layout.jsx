@@ -3,6 +3,7 @@ import "./globals.css";
 import Header from "@/components/ui/Header";
 import PageTransition from "@/components/ui/PageTransition"
 import StairTransition from "@/components/StairTransition";
+import { Analytics } from "@vercel/analytics/react"
 
 const jetbrainsMono = JetBrains_Mono({
 
