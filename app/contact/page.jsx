@@ -8,10 +8,10 @@ import { Select, SelectGroup, SelectContent, SelectItem, SelectLabel, SelectTrig
 import { FaPhoneAlt, FaEnvelope, FaMapMarkedAlt } from "react-icons/fa";
 import InputMask from "react-input-mask";
 import { motion } from "framer-motion";
-import { sendContactData } from "@/utils/api";
+import { sendContactData } from "@/pages/api/api";
 
 const info = [
-    // ... seus dados
+    // ... my data
 ];
 
 const Contact = () => {
