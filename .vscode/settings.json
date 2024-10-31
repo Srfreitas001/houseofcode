@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "houseofcode.pro",
+            "database": "houseofcodedatabase",
+            "username": "postgres",
+            "password": "Mvof.204615",
+            "connectionTimeout": 30
+        }
+    ]
+}
