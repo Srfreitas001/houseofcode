@@ -7,29 +7,29 @@ const services = [
 
     {
         num: "01",
-        title: "Web Development",
-        description: "A HouseOfCode oferece soluções de Web Development, criando sites dinâmicos e responsivos, com foco em performance e tecnologias de ponta.",
+        title: "Sistemas",
+        description: "Soluções personalizadas para integrar e automatizar processos empresariais, aumentando eficiência e controle",
         href:"/contact",
     },
 
     {
         num: "02",
-        title: "UI/UX Design",
-        description: "A HouseOfCode desenvolve interfaces intuitivas e experiências de usuário envolventes, priorizando usabilidade e estética em cada projeto.",
+        title: "Mobile",
+        description: "Desenvolvimento de apps móveis intuitivos e responsivos, focados na melhor experiência de usuário.",
         href:"/contact",
     },
 
     {
         num: "03",
-        title: "Logo Design",
-        description: "A HouseOfCode cria logos exclusivos e marcantes, capturando a essência da sua marca com designs visuais impactantes e diferenciados.",
+        title: "Web App",
+        description: "Criação de aplicações web escaláveis, adaptadas para diferentes plataformas e demandas.",
         href:"/contact",
     },
 
     {
         num: "04",
-        title: "SEO",
-        description: "A HouseOfCode oferece estratégias de SEO que otimizam seu site, melhorando sua visibilidade nos motores de busca e atraindo tráfego qualificado.",
+        title: "Servidores",
+        description: "Configuração e gerenciamento de servidores robustos, garantindo segurança e alta performance.",
         href:"/contact",
     },
 

@@ -16,16 +16,16 @@ const links = [
         path: "/services",
     },
 
-    {
-        name: "portfólio",
-        path: "/resume",
-    },
+    // {
+    //     name: "portfólio",
+    //     path: "/resume",
+    // },
 
-    {
+    // {
 
-        name: "trabalho",
-        path: "/work",
-    },
+    //     name: "trabalho",
+    //     path: "/work",
+    // },
 
     {
         name: "contato",

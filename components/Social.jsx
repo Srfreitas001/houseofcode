@@ -7,11 +7,7 @@ const Social = ({containerStyles, iconStyles, links})=> {
 
     const socials = [
 
-        {icon: <FaGithub />, path: links.github },
         {icon: <FaLinkedinIn/>, path: links.linkedin },
-        {icon: <FaYoutube />, path: links.youtube },
-        {icon: <FaInstagram />, path: links.instagram},
-        
         
     ]
     return(

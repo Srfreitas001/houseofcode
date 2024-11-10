@@ -184,7 +184,7 @@ const Home = () => {
 
             phoneNumber="+5521965408033"
             accountName="HouseOfCode"
-            chatMessage="Oi, tudo bem? Como posso te ajudar?"
+            chatMessage="Olá, somos a House Of Code, em qual projeto podemos lhe ajudar ?"
             statusMessage="Online agora"
             notificationDelay={30}
             avatar="/assets/Whatsappavatar-01.jpeg"

@@ -19,15 +19,15 @@ const links = [
         path: '/services'
     },
 
-    {
-        name: 'Portfólio',
-        path: '/resume'
-    },
+    // {
+    //     name: 'Portfólio',
+    //     path: '/resume'
+    // },
 
-    {
-        name: 'Trabalho',
-        path: '/work'
-    },
+    // {
+    //     name: 'Trabalho',
+    //     path: '/work'
+    // },
 
     {
         name: 'Contato',
